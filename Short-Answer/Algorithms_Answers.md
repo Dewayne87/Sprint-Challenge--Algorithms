@@ -1,7 +1,7 @@
 Add your answers to the Algorithms exercises here.
 a)O(n) because the while loop is n and the variable assinments are constant
 b)O(n^3) because sum = 0 is constant the first 3 loops are based on n and the last for loop is based off a variable created from the previous for loop
-c)O(1) because its just checking the input against a constant variable
+c)O(n) because its has a recursion
 
 
 exercise II)
